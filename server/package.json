@@ -1,0 +1,14 @@
+{
+  "name": "pi-web-admin-panel-server",
+  "version": "0.1.0",
+  "description": "Server for the web admin panel",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonny Hofmann",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^2.1.1"
+  }
+}
